@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-f = open('token.txt', 'r')
+f = open('e:\token.txt', 'r')
 token = f.read()
 f.close()
 
